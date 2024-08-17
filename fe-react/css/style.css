@@ -1,0 +1,13 @@
+
+body{
+    background-color: aqua;
+    color:#0000;
+    border:1px;
+    border-style: solid;
+}
+p{
+    margin:10 px;
+    /** padding-top:0px,padding-right:20px,padding-bottom:20px, padding-left:0px;**/
+    padding:0px 20px 20 0px;
+    text-align:justify;
+}
